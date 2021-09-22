@@ -5,8 +5,9 @@ module.exports = {
     status: "Bot By AGENTOPDev",
     footer: "Developed By AGENTOPDev",
     color: "#483c94",
-    thumbnail: "",
+    icons: "$serverIcon",    
     
-    
+    //Invite Manager
+    invite: "0",
 
 }
