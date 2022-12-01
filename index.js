@@ -1,7 +1,7 @@
 const Aoijs = require("aoi.js")
  
 const bot = new Aoijs.Bot({
-  token: "ODc2NDU2MTkxMzE0Nzc2MDg1.YRkVbw.0w3aVwitT5Sfis6JMarvPBx3Z08", 
+  token: "NONE", 
   prefix: ["!", "<@$clientID>", "<@!$clientID>"],
   fetchInvites: true,
 })
